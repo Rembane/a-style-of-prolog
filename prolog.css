@@ -5,3 +5,12 @@
 
 
 @import url("http://prolog.spelkonvent.se/static/fonts/league-gothic/stylesheet.css");
+
+
+.header h1  {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	color:#000;
+	font-size:3em;
+
+}
