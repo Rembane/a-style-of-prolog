@@ -90,6 +90,11 @@ h2   {
     background: #336600;
 }
 
+#menu .pure-menu-heading:hover {
+    background: #335C0A;
+}
+
+
 #footer  {
 	font-size:0.8em;
 	color:#666;
