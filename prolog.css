@@ -26,8 +26,17 @@ a:hover {
 }
 
 
+.pure-button-primary {
+    background-color: #336600;
+    color: #fff;
+}
 
-#336600
+.pure-button-primary:hover {
+    background-color: #335C0A;
+    color: #fff;
+}
+
+
 
 .header h1  {
     	font-family:'League Gothic', Impact;
