@@ -13,3 +13,15 @@
 	color:#000;
 	font-size:3em;
 }
+
+
+.pure-menu-heading  {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+}
+
+
+body {
+    	font-family:Georgia, Sans-Serif;
+	color:#999;
+}
