@@ -8,6 +8,15 @@
 @import url("http://prolog.spelkonvent.se/static/fonts/league-gothic/stylesheet.css");
 
 
+
+body {
+	color:#333;
+}
+
+.content  {
+    	margin-top: 10px;
+}
+
 .header h1  {
     	font-family:'League Gothic', Impact;
 	text-transform:uppercase;
@@ -22,21 +31,19 @@
 	font-size:3em;
 }
 
+
 legend   {
     	font-family:'League Gothic', Impact;
 	text-transform:uppercase;
 }
 
-body {
-	color:#333;
-}
+
 
 .menu-heading {
     background: #336600;
 }
 
-#footer
-  {
+#footer  {
 	font-size:0.8em;
 	color:#666;
 }
