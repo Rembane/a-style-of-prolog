@@ -1,6 +1,7 @@
 /*
  * En tom css-fil i första commiten.
  * Men sen kommer det hända grejer!
+ *  font-family:Georgia, Sans-Serif;
  */
 
 
@@ -23,5 +24,5 @@
 
 body {
     	font-family:Georgia, Sans-Serif;
-	color:#999;
+	color:#333;
 }
