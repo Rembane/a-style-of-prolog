@@ -32,14 +32,15 @@ body {
 }
 
 
-legend   {
+.pure-form legend   {
     	font-family:'League Gothic', Impact;
 	text-transform:uppercase;
+	font-size: 2em;
 }
 
 
 
-.menu-heading {
+#menu .pure-menu-heading {
     background: #336600;
 }
 
