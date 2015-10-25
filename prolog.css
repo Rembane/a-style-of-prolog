@@ -22,6 +22,10 @@
 	font-size:3em;
 }
 
+legend   {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+}
 
 body {
 	color:#333;
