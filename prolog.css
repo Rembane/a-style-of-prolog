@@ -46,6 +46,15 @@ a:hover {
 }
 
 
+h1  {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	color:#000;
+	font-size:3em;
+}
+
+
+
 #menu .pure-menu-heading  {
     	font-family:'League Gothic', Impact;
 	text-transform:uppercase;
