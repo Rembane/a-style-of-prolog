@@ -25,10 +25,11 @@ body {
 }
 
 
-.pure-menu-heading  {
+#menu .pure-menu-heading  {
     	font-family:'League Gothic', Impact;
 	text-transform:uppercase;
-	font-size:3em;
+	font-size: 160%;
+    	padding: 0.3em 0 0.3em 0.3em;
 }
 
 
