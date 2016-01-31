@@ -11,6 +11,7 @@
 
 body {
 	color:#333;
+	font-family:georgia;
 }
 
 .content  {
@@ -19,6 +20,7 @@ body {
 
 a {
 	color:#336600;
+	text-decoration:none;
 }
 
 a:hover {
