@@ -32,8 +32,13 @@ a:hover {
 
 .p-taggar  {
 	font-weight:bold;
-	color:#666666;
+	color:#999999;
 }
+
+.p-vad     {
+ 	-webkit-margin-after: 0.5em
+}
+
 
 
 
