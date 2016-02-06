@@ -17,6 +17,10 @@ body {
     	font-family:georgia;
 }
 
+#main a {
+    	font-weight: bold;
+}
+
 .content  {
     	margin-top: 10px;
 }
