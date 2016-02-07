@@ -22,7 +22,17 @@ a.event-link {
 }
 
 
-.program p.p-arr p-taggar p-besk  {
+.program p.p-arr {
+    -webkit-margin-before: 0em;
+}
+
+
+.program p.p-besk  {
+    -webkit-margin-before: 0em;
+}
+
+
+.program p.p-taggar  {
     -webkit-margin-before: 0em;
 }
 
