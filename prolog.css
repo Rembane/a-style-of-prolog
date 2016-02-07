@@ -17,7 +17,7 @@ body {
     	font-family:georgia;
 }
 
-#main a {
+.event-link a {
     	font-weight: bold;
 }
 
