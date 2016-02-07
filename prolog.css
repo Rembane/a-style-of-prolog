@@ -21,6 +21,15 @@ a.event-link {
     	font-weight: bold;
 }
 
+
+.program p.p-arr  {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+
+
+
+
 #main li {
     	padding-top:10px;
 }
