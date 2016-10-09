@@ -1,13 +1,4 @@
-/*
- * En tom css-fil i första commiten.
- * Men sen kommer det hända grejer!
- *  font-family:Georgia, Sans-Serif;
- */
-
-
-@import url("http://prolog.spelkonvent.se/static/fonts/league-gothic/stylesheet.css");
-
-
+@import url("https://rembane.github.io/a-style-of-prolog/fonts/league-gothic/stylesheet.css");
 
 body {
 	color:#333;
