@@ -13,21 +13,21 @@ a.event-link {
 }
 
 
-.program p.p-arr {
+.program p.arr {
     -webkit-margin-before: 0em;
 }
 
 
-.program p.p-besk  {
+.program p.besk  {
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
 }
 
-.program p.p-vad  {
+.program p.vad  {
     -webkit-margin-after: 0em;
 }
 
-.program p.p-taggar  {
+.program p.taggar  {
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
 }
@@ -51,12 +51,12 @@ a:hover {
 	color:#335C0A;
 }
 
-.p-taggar  {
+.taggar  {
 	font-weight:bold;
 	color:#999999;
 }
 
-.p-vad     {
+.vad     {
  	-webkit-margin-after: 0.5em;
 }
 
@@ -122,17 +122,17 @@ h2   {
 }
 
 
-.p-arr {
+.arr {
     font-style: italic;
 }
 
 
-.p-vad {
+.vad {
     font-style: italic;
 }
 
 
-.p-taggar {
+.taggar {
     font-style: italic;
 }
 
